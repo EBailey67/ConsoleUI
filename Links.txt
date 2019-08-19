@@ -1,0 +1,4 @@
+Some links for reference
+
+https://docs.microsoft.com/en-us/windows/console/using-the-high-level-input-and-output-functions
+http://pubs.opengroup.org/onlinepubs/7908799/cursesix.html
